@@ -6,8 +6,8 @@ Installation:
 5. ```php artisan serve```
 
 How to Use After running the project, use the link in the browser:
-1. To register a new user. ```http://127.0.0.1:8000/users```
-2. To log in to existing users. ```http://127.0.0.1:8000/login```
+1. To register a new user. http://127.0.0.1:8000/users
+2. To log in to existing users. http://127.0.0.1:8000/login
 3. To make a deposit: http://127.0.0.1:8000/depositForm
 4. To see the deposit: http://127.0.0.1:8000/deposit
 5. To make a withdrawal: http://127.0.0.1:8000/withdrawalForm
