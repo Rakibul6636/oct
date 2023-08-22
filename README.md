@@ -3,7 +3,9 @@ Installation:
 2. ```cd oct```
 3. ```composer install```
 4. ```php artisan migrate```
-5. ```php artisan serve```
+5. ```npm install```
+6. ```npm run dev```
+7. ```php artisan serve```
 
 How to Use After running the project, use the link in the browser:
 1. To register a new user. http://127.0.0.1:8000/users
