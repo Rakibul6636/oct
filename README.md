@@ -16,3 +16,4 @@ How to Use After running the project, use the link in the browser:
 6. To see the withdrawal: http://127.0.0.1:8000/withdrawal
 7. To see the total transaction and balance: http://127.0.0.1:8000/
 
+Video Link: https://youtu.be/6SlUsqHW74Q
